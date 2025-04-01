@@ -7,7 +7,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+folks!+👋;This+is+Akash+Mishra....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90px">
+ 
 #### "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 I believe in the power of clean, simple code that can scale with creativity and vision. My goal is to write software that makes a difference and to contribute to projects that inspire innovation.
@@ -38,6 +39,7 @@ I believe in the power of clean, simple code that can scale with creativity and 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -116,5 +118,6 @@ If you want to reach out to me about anything, lets get code together just ping 
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="150px">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+	
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
