@@ -10,7 +10,7 @@
 
 #### "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-Hello, I’m Akash_Mishra. I believe in the power of clean, simple code that can scale with creativity and vision. My goal is to write software that makes a difference and to contribute to projects that inspire innovation.
+I believe in the power of clean, simple code that can scale with creativity and vision. My goal is to write software that makes a difference and to contribute to projects that inspire innovation.
 
 🌱 Currently learning: AI and ML
 
@@ -75,7 +75,7 @@ Hello, I’m Akash_Mishra. I believe in the power of clean, simple code that can
 # 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdevin09"/>
+    <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdevin09"/>
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
