@@ -1,6 +1,7 @@
  <img align="right" src="https://badges.pufler.dev/visits/akashdevin09/akashdevin09">
 
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+folks!+👋;This+is+Akash+Mishra....;Nice+to+meet+you!&center=true&size=30">
@@ -88,6 +89,9 @@ Hello, I’m Akash_Mishra. I believe in the power of clean, simple code that can
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <img src="https://github-profile-trophy.vercel.app/?username=akashdevin09&theme=radical"/>
+
+<a href="https://github.com/akashdevin09?tab=followers">
+      <img src="https://custom-icon-badges.demolab.com/github/followers/akashdevin09?style=for-the-badge&logo=github&color=C000FF&logoColor=white" alt="GitHub followers"/>
 
 
 
