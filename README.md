@@ -1,3 +1,11 @@
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Akash Mishra
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash+Mishra....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -32,3 +40,10 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=Akashdevin09&show_icons=true&theme=dracula)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
