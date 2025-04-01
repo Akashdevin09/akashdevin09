@@ -7,6 +7,13 @@
   </a>
 </h1>
 
+#### "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+Hello, I’m Akash_Mishra. I believe in the power of clean, simple code that can scale with creativity and vision. My goal is to write software that makes a difference and to contribute to projects that inspire innovation.
+
+🌱 Currently learning: AI and ML
+
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -90,7 +97,7 @@
 <p>
  </br>
 
-
+Feel free to browse my repositories, open an issue, or start a discussion. Let's build something that matters!
 If you want to reach out to me about anything, lets get code together just ping me 😉.
 
 <a href="coolakash1200@mail.como">
