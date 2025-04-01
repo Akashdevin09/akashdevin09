@@ -1,5 +1,5 @@
+ <img align="right" src="https://badges.pufler.dev/visits/akashdevin09/akashdevin09">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -74,7 +74,7 @@ Hello, I’m Akash_Mishra. I believe in the power of clean, simple code that can
 # 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdevin09"/>
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
@@ -109,7 +109,7 @@ If you want to reach out to me about anything, lets get code together just ping 
 </br>
 </br>
 </a>
-
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="150px">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
